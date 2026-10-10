@@ -15,10 +15,29 @@
       href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans+Arabic:wght@400;500;600&family=Sora:wght@400;500;600&display=swap"
       rel="stylesheet"
     />
-    <script type="module" crossorigin src="/seven-supplies-preview/assets/index-BlwPMEzB.js"></script>
-    <link rel="stylesheet" crossorigin href="/seven-supplies-preview/assets/index-q-TdHAIw.css">
+    <script>
+      (function () {
+        var lang = localStorage.getItem("seven-lang") === "ar" ? "ar" : "en";
+        document.documentElement.lang = lang;
+        document.documentElement.dir = lang === "ar" ? "rtl" : "ltr";
+        if (localStorage.getItem("seven-splash") === "1") {
+          document.documentElement.classList.add("splash-seen");
+        }
+      })();
+    </script>
+    <script type="module" crossorigin src="/seven-supplies-preview/assets/index-Y2Ptc2bj.js"></script>
+    <link rel="stylesheet" crossorigin href="/seven-supplies-preview/assets/index-BT6ppndH.css">
   </head>
   <body>
+    <div id="brand-splash" aria-hidden="true">
+      <div class="splash-logo">
+        <span class="brand-mark">7</span>
+        <span>
+          <strong data-en="Seven" data-ar="السبع">Seven</strong>
+          <small data-en="Supplies" data-ar="للتوريدات">Supplies</small>
+        </span>
+      </div>
+    </div>
     <div id="root"></div>
   </body>
 </html>
