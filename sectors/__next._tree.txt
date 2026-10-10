@@ -1,0 +1,6 @@
+:HL["/seven-supplies-preview/_next/static/chunks/1vkbbqj2zpe93.css","style"]
+:HL["https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans+Arabic:wght@400;500;600&family=Sora:wght@400;500;600&display=swap","style"]
+:HL["/seven-supplies-preview/logo.png","image"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"sectors","h":96,"c":"$Q2"}]]
+0:{"b":"pqXwtgnH8AxAEJ2hR3Lnq","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

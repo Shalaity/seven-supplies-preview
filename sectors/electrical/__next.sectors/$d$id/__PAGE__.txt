@@ -1,0 +1,36 @@
+1:"$Sreact.fragment"
+2:"/seven-supplies-preview/_next/static/chunks/06bbyxp1vfu2v.js"
+3:I[90390,["$2"],"ClientRoot"]
+4:I[39756,["$2"],"default"]
+5:I[37457,["$2"],"default"]
+6:I[22016,["$2"],""]
+13:"ViewportBoundary"
+14:I[97367,["$2"],"$13"]
+15:"MetadataBoundary"
+16:I[97367,["$2"],"$15"]
+17:"$Sreact.suspense"
+18:I[27201,["$2"],"IconMark"]
+:HL["/seven-supplies-preview/_next/static/chunks/1vkbbqj2zpe93.css","style"]
+:HL["https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans+Arabic:wght@400;500;600&family=Sora:wght@400;500;600&display=swap","style"]
+:HL["/seven-supplies-preview/logo.png","image"]
+8:X
+b:X
+b:C
+e:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","section",null,{"className":"section","children":[["$","p",null,{"className":"kicker","children":"01"}],["$","h1",null,{"className":"page-title","data-en":"Electrical, control, connection and protection","data-ar":"الكهرباء والتحكم والتوصيل والحماية","children":"Electrical, control, connection and protection"}],["$","p",null,{"data-en":"Connection and protection for plant and project packages, with test instruments from Klein Tools and Fluke. System work is handled by the same electrical and instrumentation team.","data-ar":"توصيل وحماية لمشاريع المصانع، مع أجهزة فحص من كلاين تولز وفلوك. أعمال الأنظمة يتولاها فريق الكهرباء والأجهزة الدقيقة نفسه.","children":"Connection and protection for plant and project packages, with test instruments from Klein Tools and Fluke. System work is handled by the same electrical and instrumentation team."}],["$","h2",null,{"data-en":"Equipment lines","data-ar":"خطوط المعدات","children":"Equipment lines"}],["$","ul",null,{"children":[["$","li","Connection and protection",{"data-en":"Connection and protection","data-ar":"التوصيل والحماية","children":"Connection and protection"}],["$","li","Klein Tools and Fluke test instruments",{"data-en":"Klein Tools and Fluke test instruments","data-ar":"أجهزة فحص كلاين تولز وفلوك","children":"Klein Tools and Fluke test instruments"}],["$","li","LV and MV network packages",{"data-en":"LV and MV network packages","data-ar":"شبكات الجهد المنخفض والمتوسط","children":"LV and MV network packages"}],["$","li","Substations, fire alarm, CCTV and networks",{"data-en":"Substations, fire alarm, CCTV and networks","data-ar":"محطات فرعية وإنذار حريق وكاميرات وشبكات","children":"Substations, fire alarm, CCTV and networks"}]]}],["$","h2",null,{"data-en":"Industries","data-ar":"القطاعات المستهدفة","children":"Industries"}],["$","ul",null,{"className":"market-list","children":[["$","li","Oil and gas",{"data-en":"Oil and gas","data-ar":"النفط والغاز","children":"Oil and gas"}],["$","li","Petrochemical",{"data-en":"Petrochemical","data-ar":"البتروكيماويات","children":"Petrochemical"}],["$","li","Power",{"data-en":"Power","data-ar":"الطاقة","children":"Power"}],["$","li","Mining",{"data-en":"Mining","data-ar":"التعدين","children":"Mining"}],["$","li","EPC contractors",{"data-en":"EPC contractors","data-ar":"مقاولو التنفيذ","children":"EPC contractors"}]]}],["$","h2",null,{"data-en":"Catalog brands","data-ar":"علامات الكتالوج","children":"Catalog brands"}],"$Lf","$L10"]}],null,"$L11"]}],"p":"$@12","v":null,"s":"$8"}}]]
+c:[["children",{"s":{"n":"id","t":"d","k":"electrical","s":[]},"h":65632,"d":{"r":["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@d","v":"$b","s":"$8"},"c":"$Qe"}]]
+9:[["children",{"s":"sectors","h":131168,"d":{"r":["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@a","v":"$b","s":"$8"},"c":"$Qc"}]]
+0:{"t":{"t":{"s":"","h":131152,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/seven-supplies-preview/_next/static/chunks/1vkbbqj2zpe93.css","precedence":"next"}],["$","script","script-0",{"src":"/seven-supplies-preview/_next/static/chunks/06bbyxp1vfu2v.js","async":true}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"data-scroll-behavior":"smooth","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans+Arabic:wght@400;500;600&family=Sora:wght@400;500;600&display=swap","rel":"stylesheet"}]]}],["$","body",null,{"children":[["$","div",null,{"id":"brand-splash","aria-hidden":"true","children":["$","img",null,{"className":"splash-logo","src":"/seven-supplies-preview/logo.png","alt":"","width":"405","height":"146"}]}],["$","$L3",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}],"notFound":[["$","section",null,{"className":"section","children":[["$","h1",null,{"className":"page-title","data-en":"Page not found.","data-ar":"الصفحة غير موجودة.","children":"Page not found."}],["$","$L6",null,{"className":"button button-primary","href":"/","data-en":"Back to the overview","data-ar":"العودة إلى النظرة العامة","children":"Back to the overview"}]]}],[]]}]}]]}]]}]]}],"p":"$@7","v":null,"s":"$8"},"c":"$Q9"},"h":{"r":["$","$1","h",{"children":[null,["$","$L14",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L16",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$17",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Electrical, control, connection and protection | The Seven Supplies"}],["$","meta","1",{"name":"description","content":"The Seven Supplies supplies industrial equipment, MRO and technical services to oil and gas, petrochemical, power, mining and EPC contractors in Saudi Arabia."}],["$","link","2",{"rel":"icon","href":"/seven-supplies-preview/favicon.png"}],["$","$L18","3",{}]]}]}],null]}],null]}],"p":"$@19","v":null,"s":"$8"}},"a":"$@1a","u":"$@1b","b":"pqXwtgnH8AxAEJ2hR3Lnq"}
+1c:I[97367,["$2"],"OutletBoundary"]
+f:["$","div",null,{"className":"brand-links","children":[["$","$L6","klein",{"href":"/catalog?brand=klein","children":"Klein Tools"}]]}]
+10:["$","div",null,{"className":"actions","children":[["$","$L6",null,{"className":"button button-primary","href":"/rfq?sector=electrical","data-en":"Request this line","data-ar":"اطلب هذا الخط","children":"Request this line"}],["$","$L6",null,{"className":"button button-ghost","href":"/sectors","data-en":"All sectors","data-ar":"كل القطاعات","children":"All sectors"}]]}]
+11:["$","$L1c",null,{"children":["$","$17",null,{"name":"Next.MetadataOutlet","children":"$@1d"}]}]
+8:300
+1d:null
+1b:true
+8:C
+1a:0
+d:"$undefined"
+a:"$undefined"
+7:"$undefined"
+19:"$undefined"
+12:"$undefined"
